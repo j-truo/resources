@@ -3,11 +3,11 @@
 body {
   font-family: futura, arial, sans-serif;
   color: #EEEEEE;
-  margin: 10em;
-  margin-top: 5em;
-  margin-bottom: 5em;
+  margin: 15%;
+  margin-top: 7%;
+  margin-bottom: 7%;
   background: #f8b195;
-  font-size: 20px;
+  font-size: 1em;
 }
 
 p {
@@ -16,7 +16,7 @@ p {
 h1 {
   font-style: normal;
   color: #f67280;
-  font-size: 60px;
+  font-size: 3em;
 }
 /*subtitles*/
 h2 {
@@ -30,26 +30,26 @@ h3 {
 }
 /*big titles buttons*/
 h4 {
-  font-size: 40px;
+  font-size: 2em;
   color: #355c7d;
 }
 /*lengthy text*/
 h5 {
   font-style: normal;
   color: #E6E6E6;
-  font-size: 20px;
+  font-size: 1em;
 }
 /*definition*/
 h6 {
   font-style: normal;
   color: #355c7d;
-  font-size: 20px;
+  font-size: 1em;
 }
 /*big titles*/
 h7{
   font-style: normal;
   font-family: futura, arial, sans-serif;
-  font-size: 30px;
+  font-size: 1.5em;
   color: #f8b195;
   font-weight: bold;
 }
