@@ -85,10 +85,15 @@ a {
   font-family: futura, arial, sans-serif;
   color: #EEEEEE;
 }
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
+  padding: 0 18px;
   display: none;
   overflow: hidden;
-}
+  background-color: #f1f1f1;
+}	
 
