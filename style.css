@@ -1,3 +1,5 @@
+/* CSS files add styling rules to your content */
+
 body {
   font-family: futura, arial, sans-serif;
   color: #EEEEEE;
@@ -58,4 +60,11 @@ ul {
 
 a {
   text-decoration: none;
+}
+
+
+.flex-container {
+  display: flex;
+  height: 1000px;
+  align-items: flex-start;
 }
