@@ -1,0 +1,70 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: futura, arial, sans-serif;
+  color: #EEEEEE;
+  margin: 10em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  background: #f8b195;
+  font-size: 20px;
+}
+
+p {
+}
+/*title*/
+h1 {
+  font-style: normal;
+  color: #f67280;
+  font-size: 60px;
+}
+/*subtitles*/
+h2 {
+  font-style: normal;
+  color: #f67280;
+}
+/*links*/
+h3 {
+  font-style: normal;
+  color: white;
+}
+/*big titles buttons*/
+h4 {
+  font-size: 40px;
+  color: #355c7d;
+}
+/*lengthy text*/
+h5 {
+  font-style: normal;
+  color: #E6E6E6;
+  font-size: 20px;
+}
+/*definition*/
+h6 {
+  font-style: normal;
+  color: #355c7d;
+  font-size: 20px;
+}
+/*big titles*/
+h7{
+  font-style: normal;
+  font-family: futura, arial, sans-serif;
+  font-size: 30px;
+  color: #f8b195;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.flex-container {
+  display: flex;
+  height: 1000px;
+  align-items: flex-start;
+}
