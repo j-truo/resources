@@ -6,7 +6,7 @@ body {
   margin: 2%;
   margin-top: 2%;
   margin-bottom: 2%;
-  background: #f8b195;
+  background: #fbfcf7;
   font-size: 1em;
 }
 
@@ -15,7 +15,7 @@ p {
 /*title*/
 h1 {
   font-style: normal;
-  color: #f67280;
+  color: #ddd4cd;
   font-size: 3em;
 }
 /*subtitles*/
@@ -31,7 +31,7 @@ h3 {
 /*big titles buttons*/
 h4 {
   font-size: 2em;
-  color: #355c7d;
+  color: #fbfcf7;
 }
 /*lengthy text*/
 h5 {
