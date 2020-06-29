@@ -21,7 +21,7 @@ h1 {
 /*subtitles*/
 h2 {
   font-style: normal;
-  color: #f67280;
+  color: #000000;
 }
 /*links*/
 h3 {
@@ -36,7 +36,7 @@ h4 {
 /*lengthy text*/
 h5 {
   font-style: normal;
-  color: #E6E6E6;
+  color: #fbfcf7;
   font-size: 1em;
 }
 /*definition*/
@@ -50,7 +50,7 @@ h7{
   font-style: normal;
   font-family: futura, arial, sans-serif;
   font-size: 1.5em;
-  color: #f8b195;
+  color: #a1a1a1;
   font-weight: bold;
 }
 
