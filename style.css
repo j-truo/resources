@@ -83,7 +83,8 @@ a {
   outline: none;
   font-size: 40px;
   font-family: futura, arial, sans-serif;
-  color: #EEEEEE;
+  color: #a1a1a1;
+  font-weight: bold;
 }
 .active, .collapsible:hover {
   background-color: #ccc;
