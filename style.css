@@ -86,10 +86,6 @@ a {
   color: #a1a1a1;
   font-weight: bold;
 }
-.active, .collapsible:hover {
-  background-color: #ccc;
-  font-size:15px;
-}
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
